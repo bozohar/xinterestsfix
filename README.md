@@ -8,4 +8,4 @@ This javascript code automates having to manually uncheck each box.
 4. Paste and run code
 5. Click on the interests you actually want to see in ur TL*
 
-*When I had: **4chan**, **Anime**, and **Computer Programming** as the interests my entire TL was exclusively tpot.
+*When I had: **4chan**, **Anime**, and **Computer Programming** as interests my entire TL was exclusively tpot.
