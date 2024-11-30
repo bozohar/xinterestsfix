@@ -1,4 +1,4 @@
-Likes determine your your TL, each like adds the respective tweet's category as an interest in your twitter settings under interests, this determines what populates on your TL.
+Likes determine your your TL, each like adds the respective tweet's category as an interest in your twitter settings under interests, this determines what populates your TL.
 This javascript code automates having to manually uncheck each box.
 
 # Steps
